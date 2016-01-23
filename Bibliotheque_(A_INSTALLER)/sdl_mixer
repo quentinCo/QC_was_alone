@@ -1,0 +1,3 @@
+echo Execution bash : SDL_mixer.
+echo Installation SDL_mixer.
+sudo apt-get install libsdl-mixer1.2 libsdl-mixer1.2-dev
